@@ -55,6 +55,8 @@ export const blur: Filter = (context, radius = '0') => {
   const b = [];
   const a = [];
 
+  console.log("test"); 
+
   const vmin = [];
   const vmax = [];
 
